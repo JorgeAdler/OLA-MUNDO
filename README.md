@@ -1,2 +1,4 @@
-# OLA MUNDO
- primeiro repositorio criado no workshop
+# OLÁ, MUNDO
+ primeiro epositorio criado no workshop
+
+Jorge Adler
